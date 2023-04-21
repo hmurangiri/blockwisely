@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" />
+	  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/main.css">
+    <title>Top Cryptocurrencies</title>
+</head>
+  <body onload="generateMenu()" class="bg-light">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="header"></nav>
+      <section class="section-content py-3">
+        <div class="row">
+          <span id="sideContent" class="col-lg-3"></span>
+          <main class="col-lg-9">
+
+            <h5>Introduction</h5>
+
+            <p>Bitcoin is an invention that, for the first time in history, enabled a group of software users to create and manage a digital money supply outside the control of any government or bank.&nbsp;Bitcoin is a digital currency which&nbsp;operates free of any central control&nbsp;or the oversight of banks or governments. Instead it relies on peer-to-peer software and cryptography.</p>
+
+            <p>A public ledger records all bitcoin transactions and copies are held on servers around the world. Anyone with a spare computer can set up one of these servers, known as a node. Consensus on who owns which coins is reached cryptographically across these nodes rather than relying on a central source of trust like a bank.</p>
+
+            <p>Every transaction is publicly broadcast to the network and shared from node to node. Every ten minutes or so these transactions are collected together by miners into a group called a block and added permanently to the&nbsp;<a href="blockchain.html">blockchain</a>. This is the definitive account book of bitcoin.</p>
+
+            <p>In much the same way you would keep&nbsp;traditional coins in a physical wallet, virtual currencies are held in <strong>digital wallets</strong> and can be accessed from client software or a range of online and hardware tools.</p>
+
+            <p>Bitcoins can currently be subdivided by seven decimal places: a thousandth of a bitcoin is known as a milli and a hundred millionth of a bitcoin is known as a <strong>satoshi</strong>.</p>
+
+            <h5>Who invented bitcoin?</h5>
+
+            <p>In 2008 the domain name .org was bought and an academic white paper titled&nbsp;<a href="https://www.bitcoin.com/bitcoin.pdf" rel="noopener noreferrer" target="_blank"><em>Bitcoin: A Peer-to-Peer Electronic Cash System</em></a>&nbsp;was uploaded. It set out the theory and design of a system for a digital currency free of control from any organization or government.</p>
+
+            <p>The author, going by the name&nbsp;Satoshi Nakamoto, wrote: &ldquo;The root problem with conventional currencies is all the trust that&rsquo;s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust.&rdquo;</p>
+
+            <p>The following year the software described in the paper was finished and released publicly, launching the bitcoin network on 9 January 2009.</p>
+
+            <p>Nakamoto continued working on the project with various developers until 2010 when he or she withdrew from the project and left it to its own devices.&nbsp;The real identity of Nakamoto has never been revealed&nbsp;and they have not made any public statement in years.</p>
+
+            <p>Now the software is open source, meaning that anyone can view, use or contribute to the code for free. Many companies and organizations work to improve the software, including MIT.</p>
+
+            <h5>Can bitcoin be converted to cash?</h5>
+
+            <p>Bitcoin can be exchanged for cash just like any asset. There are numerous cryptocurrency exchanges online where people can do this but transactions can also be carried out in person or&nbsp;over any communications platform, allowing even small businesses to accept bitcoin. There is no official mechanism built into bitcoin to convert to another currency.</p>
+
+            <h5>What is the purpose of bitcoin?</h5>
+
+            <p>Bitcoin was created as a way for people to send money over the internet. The digital currency was intended to provide an alternative payment system that would operate free of central control but otherwise be used just like traditional currencies.</p>
+
+            <h5>Are bitcoins safe?</h5>
+
+            <div class="alert alert-danger">Nerd content ahead!</div>
+
+            <p>The cryptography behind bitcoin is based on the SHA-256 algorithm designed by the US National Security Agency. Cracking this is, for all intents and purposes, impossible as there are more possible private keys that would have to be tested (22<sup>56</sup>) than there are atoms in the universe (estimated to be&nbsp;somewhere between 10<sup>78</sup>&nbsp;to 10<sup>82</sup>).</p>
+
+            <p>There have been several high profile cases of&nbsp;bitcoin exchanges being hacked&nbsp;and funds being stolen, but these services invariably stored the digital currency on behalf of customers. What was hacked in these cases was the website and not the bitcoin network.</p>
+
+            <p>In theory if an attacker could control more than half of all the bitcoin nodes in existence then they could create a consensus that they owned all bitcoin, and embed that into the blockchain. But as the number of nodes grows this becomes less practical.</p>
+
+            <p>A realistic problem is that bitcoin operates without any central authority. Because of this, anyone making an error with a transaction on their wallet has no recourse. If you accidentally send bitcoins to the wrong person or lose your password there is nobody to turn to.</p>
+
+            <p>Of course, the eventual arrival of practical quantum computing could break it all. Much cryptography relies on mathematical calculations that are extremely hard for current computers to do, but quantum computers work very differently and may be able to execute them in&nbsp;a fraction of a second.</p>
+
+            <h5>What are the problems with bitcoin?</h5>
+
+            <ul>
+                <li><strong>Bitcoin Valuation Fluctuates</strong></li>
+            </ul>
+
+            <p>The value of Bitcoins is constantly fluctuating according to demand. This constant fluctuation will cause Bitcoin accepting sites to continually change prices. It will also cause a lot of confusion if a refund for a product is being made. For example, if a t-shirt was initially bought for 1.5 BTC, and returned a week later, should 1.5 BTC be returned, even though the valuation has gone up, or should the new amount (calculated according to current valuation) be sent? Which currency should BTC tied to when comparing valuation? These are still important questions that the Bitcoin community still has no consensus over.</p>
+
+            <ul>
+                <li><strong>No Buyer Protection</strong></li>
+            </ul>
+
+            <p>When goods are bought using Bitcoins, and the seller doesn&rsquo;t send the promised goods, nothing can be done to reverse the transaction. This problem can be solved using a third party escrow service &nbsp;but then, escrow services would assume the role of banks, which would cause Bitcoins to be similar to a more traditional currency.</p>
+
+            <ul>
+                <li><strong>Wallets Can Be Lost</strong></li>
+            </ul>
+
+            <p>If a hard drive crashes, or a virus corrupts data , and the wallet file is corrupted, Bitcoins have essentially been &ldquo;lost&rdquo;. There is nothing that can done to recover it. These coins will be forever orphaned in the system. This can bankrupt a wealthy Bitcoin investor within seconds with no way form of recovery. The coins the investor owned will also be permanently orphaned.</p>
+
+            <ul>
+                <li><strong>Built in Deflation</strong></li>
+            </ul>
+
+            <p>Since the total number of bitcoins is capped at 21 million, it will cause deflation. Each bitcoin will be worth more and more as the total number of&nbsp;Bitcoins maxes out. This system is designed to reward early adopters. Since each bitcoin will be valued higher with each passing day, the question of when to spend becomes important. This might cause spending surges which will cause the Bitcoin economy to fluctuate very rapidly, and unpredictably.</p>
+
+            <ul>
+                <li><strong>No Physical Form</strong></li>
+            </ul>
+
+            <p>Since Bitcoins do not have a physical form, it cannot be used in physical stores. It would always have to be converted to other currencies. Cards with Bitcoin wallet information stored in them have been proposed, but there is no consensus on a particular system. Since there would be multiple competing systems, merchants would find it unfeasible to support all Bitcoin cards, and therefore users would be forced to convert Bitcoins anyway, unless a universal system is proposed and implemented.</p>
+
+          </main>
+        </div>
+      </section>
+    </div>     
+    <script src="js/main.js"></script>  
+  </body>
+</html>
