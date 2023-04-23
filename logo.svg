@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3046.735 5000" enable-background="new 0 0 3046.735 5000" xml:space="preserve">
+<symbol  id="Bitcoin" viewBox="-52.373 -75.322 104.746 150.644">
+	<path d="M34.663,3.378c9.398,4.915,14.197,12.699,14.332,23.234c0.205,16.035-8.522,27.404-28.939,30.219l0.228,17.835
+		L1.732,74.903L1.515,57.949c-2.958,0.065-4.291,0.076-14.187,0.203l0.217,16.933l-18.552,0.237l-0.217-16.933l-19.664,0.252
+		l-1.486-116.121l19.664-0.252l-0.217-16.933l18.552-0.237l0.217,16.933C0.134-58.153-0.68-58.143,0.029-58.15l-0.217-16.934
+		l18.552-0.237l0.225,17.617c22.069,1.843,33.533,14.516,33.779,33.734C52.545-10.193,47.145-1.283,34.663,3.378z M14.237,21.459
+		C14.083,9.424,3.3,11.585-15.296,11.823l0.256,20.024C5.7,31.582,14.38,32.629,14.237,21.459z M-15.842-30.825l0.274,21.443
+		C5.05-9.647,17.568-7.805,17.406-20.449C17.24-33.471,4.278-31.083-15.842-30.825z"/>
+</symbol>
+<g>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1025 0 0 -0.1025 964.6108 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2782 0 0 -0.2782 1076.3621 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4159 0 0 -0.4159 1188.1134 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5067 0 0 -0.5067 1299.8647 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5418 0 0 -0.5418 1411.616 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5418 0 0 -0.5418 1523.3673 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5418 0 0 -0.5418 1635.1185 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5037 0 0 -0.5037 1746.8699 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4129 0 0 -0.4129 1858.6211 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2782 0 0 -0.2782 1970.3724 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1025 0 0 -0.1025 2082.1238 40.8099)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1259 0 0 -0.1259 685.2326 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.451 0 0 -0.451 796.9839 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7 0 0 -0.7 908.7352 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1132.2378 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7 0 0 -0.7 2137.9993 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4627 0 0 -0.4627 2249.7507 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1347 0 0 -0.1347 2361.502 152.5612)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1904 0 0 -0.1904 517.6057 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6267 0 0 -0.6267 629.3569 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 852.8596 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1188.1134 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1299.8647 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6443 0 0 -0.6443 2417.3777 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2167 0 0 -0.2167 2529.1289 264.3125)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0908 0 0 -0.0908 349.9787 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6033 0 0 -0.6033 461.73 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 685.2326 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 796.9839 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 908.7352 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1132.2378 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6355 0 0 -0.6355 2585.0044 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1201 0 0 -0.1201 2696.7559 376.0638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3456 0 0 -0.3456 294.1031 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 405.8544 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6238 0 0 -0.6238 852.8596 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3017 0 0 -0.3017 964.6108 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1054 0 0 -0.1054 1076.3621 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0205 0 0 -0.0205 1188.1134 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0615 0 0 -0.0615 1299.8647 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2079 0 0 -0.2079 1411.616 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4832 0 0 -0.4832 1523.3673 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.738 0 0 -0.738 1635.1185 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7439 0 0 -0.7439 2640.8801 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4012 0 0 -0.4012 2752.6313 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0029 0 0 -0.0029 2864.3828 487.815)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0117 0 0 -0.0117 126.4762 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5447 0 0 -0.5447 238.2274 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6414 0 0 -0.6414 685.2326 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1523 0 0 -0.1523 796.9839 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0439 0 0 -0.0439 1579.2429 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5037 0 0 -0.5037 1690.9941 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5945 0 0 -0.5945 2808.5071 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0234 0 0 -0.0234 2920.2583 599.5663)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0205 0 0 -0.0205 70.6005 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.615 0 0 -0.615 182.3518 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 294.1031 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 405.8544 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5067 0 0 -0.5067 629.3569 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0029 0 0 -0.0029 741.1083 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2519 0 0 -0.2519 1746.8699 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1858.6211 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2752.6313 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.659 0 0 -0.659 2864.3828 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0351 0 0 -0.0351 2976.134 711.3176)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0059 0 0 -0.0059 14.7249 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5857 0 0 -0.5857 126.4762 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 238.2274 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5418 0 0 -0.5418 685.2326 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2079 0 0 -0.2079 796.9839 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0088 0 0 -0.0088 908.7352 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1845 0 0 -0.1845 1802.7455 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1914.4968 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2808.5071 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6238 0 0 -0.6238 2920.2583 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0117 0 0 -0.0117 3032.0098 823.0689)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4569 0 0 -0.4569 70.6005 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 182.3518 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 294.1031 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 405.8544 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7175 0 0 -0.7175 852.8596 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4042 0 0 -0.4042 964.6108 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0234 0 0 -0.0234 1076.3621 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2899 0 0 -0.2899 1858.6211 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2752.6313 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2864.3828 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4891 0 0 -0.4891 2976.134 934.8202)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2314 0 0 -0.2314 14.7249 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 126.4762 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 238.2274 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 685.2326 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 796.9839 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 908.7352 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7117 0 0 -0.7117 1020.4865 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1494 0 0 -0.1494 1132.2378 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5213 0 0 -0.5213 1914.4968 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2808.5071 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2920.2583 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.246 0 0 -0.246 3032.0098 1046.5715)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6531 0 0 -0.6531 70.6005 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 182.3518 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 294.1031 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 405.8544 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 852.8596 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1076.3621 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.164 0 0 -0.164 1188.1134 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0937 0 0 -0.0937 1858.6211 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2752.6313 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2864.3828 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6531 0 0 -0.6531 2976.134 1158.3228)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2812 0 0 -0.2812 14.7249 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 126.4762 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 238.2274 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 685.2326 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 796.9839 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 908.7352 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6941 0 0 -0.6941 1132.2378 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.041 0 0 -0.041 1243.989 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5008 0 0 -0.5008 1914.4968 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2808.5071 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2920.2583 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2812 0 0 -0.2812 3032.0098 1270.0741)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6092 0 0 -0.6092 70.6005 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 182.3518 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 294.1031 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 405.8544 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 852.8596 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4042 0 0 -0.4042 1188.1134 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2402 0 0 -0.2402 1858.6211 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2752.6313 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2864.3828 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5594 0 0 -0.5594 2976.134 1381.8253)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0879 0 0 -0.0879 14.7249 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7263 0 0 -0.7263 126.4762 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 238.2274 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 685.2326 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 796.9839 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 908.7352 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6882 0 0 -0.6882 1132.2378 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0351 0 0 -0.0351 1243.989 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0703 0 0 -0.0703 1802.7455 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7175 0 0 -0.7175 1914.4968 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2808.5071 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7087 0 0 -0.7087 2920.2583 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0556 0 0 -0.0556 3032.0098 1493.5767)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1464 0 0 -0.1464 70.6005 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7322 0 0 -0.7322 182.3518 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 294.1031 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 405.8544 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 852.8596 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1076.3621 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1669 0 0 -0.1669 1188.1134 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0176 0 0 -0.0176 1746.8699 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6297 0 0 -0.6297 1858.6211 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2752.6313 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7322 0 0 -0.7322 2864.3828 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1347 0 0 -0.1347 2976.134 1605.3279)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0996 0 0 -0.0996 126.4762 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6765 0 0 -0.6765 238.2274 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 349.9787 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 461.73 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 573.4813 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 685.2326 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 796.9839 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 908.7352 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7205 0 0 -0.7205 1020.4865 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.164 0 0 -0.164 1132.2378 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0059 0 0 -0.0059 1690.9941 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5623 0 0 -0.5623 1802.7455 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2585.0044 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2696.7559 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7234 0 0 -0.7234 2808.5071 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1376 0 0 -0.1376 2920.2583 1717.0792)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0117 0 0 -0.0117 182.3518 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3573 0 0 -0.3573 294.1031 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7087 0 0 -0.7087 405.8544 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 517.6057 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 629.3569 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 741.1083 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.738 0 0 -0.738 852.8596 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4657 0 0 -0.4657 964.6108 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0351 0 0 -0.0351 1076.3621 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0059 0 0 -0.0059 1635.1185 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5447 0 0 -0.5447 1746.8699 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2529.1289 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2640.8801 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6472 0 0 -0.6472 2752.6313 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0674 0 0 -0.0674 2864.3828 1828.8304)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0088 0 0 -0.0088 349.9787 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1464 0 0 -0.1464 461.73 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2636 0 0 -0.2636 573.4813 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2665 0 0 -0.2665 685.2326 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1757 0 0 -0.1757 796.9839 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0176 0 0 -0.0176 908.7352 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0117 0 0 -0.0117 1579.2429 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5623 0 0 -0.5623 1690.9941 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2361.502 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2473.2532 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 2585.0044 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3632 0 0 -0.3632 2696.7559 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0059 0 0 -0.0059 2808.5071 1940.5818)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0322 0 0 -0.0322 1523.3673 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6238 0 0 -0.6238 1635.1185 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2193.875 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2305.6262 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2417.3777 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5154 0 0 -0.5154 2529.1289 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0556 0 0 -0.0556 2640.8801 2052.333)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0644 0 0 -0.0644 1467.4916 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6795 0 0 -0.6795 1579.2429 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2026.248 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2137.9993 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2249.7507 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5477 0 0 -0.5477 2361.502 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0966 0 0 -0.0966 2473.2532 2164.0845)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0703 0 0 -0.0703 1411.616 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.697 0 0 -0.697 1523.3673 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 2082.1238 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5359 0 0 -0.5359 2193.875 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0879 0 0 -0.0879 2305.6262 2275.8357)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0498 0 0 -0.0498 1355.7404 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6912 0 0 -0.6912 1467.4916 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5799 0 0 -0.5799 2026.248 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1054 0 0 -0.1054 2137.9993 2387.5869)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0176 0 0 -0.0176 1299.8647 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6414 0 0 -0.6414 1411.616 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7029 0 0 -0.7029 1858.6211 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1962 0 0 -0.1962 1970.3724 2499.3381)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5125 0 0 -0.5125 1355.7404 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5154 0 0 -0.5154 1802.7455 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0205 0 0 -0.0205 1914.4968 2611.0896)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3339 0 0 -0.3339 1299.8647 2722.8408)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 2722.8408)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 2722.8408)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 2722.8408)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3485 0 0 -0.3485 1746.8699 2722.8408)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1113 0 0 -0.1113 1243.989 2834.592)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1355.7404 2834.592)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 2834.592)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 2834.592)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3397 0 0 -0.3397 1690.9941 2834.592)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5799 0 0 -0.5799 1299.8647 2946.3433)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 2946.3433)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 2946.3433)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4569 0 0 -0.4569 1635.1185 2946.3433)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2782 0 0 -0.2782 1243.989 3058.0947)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 3058.0947)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 3058.0947)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6472 0 0 -0.6472 1579.2429 3058.0947)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0088 0 0 -0.0088 1690.9941 3058.0947)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6531 0 0 -0.6531 1299.8647 3169.8459)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 3169.8459)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 3169.8459)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1845 0 0 -0.1845 1635.1185 3169.8459)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0761 0 0 -0.0761 1243.989 3281.5972)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.205 0 0 -0.205 1355.7404 3281.5972)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.205 0 0 -0.205 1467.4916 3281.5972)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1464 0 0 -0.1464 1579.2429 3281.5972)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0205 0 0 -0.0205 1076.3621 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3339 0 0 -0.3339 1188.1134 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6062 0 0 -0.6062 1299.8647 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7234 0 0 -0.7234 1411.616 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7146 0 0 -0.7146 1523.3673 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.574 0 0 -0.574 1635.1185 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2694 0 0 -0.2694 1746.8699 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0059 0 0 -0.0059 1858.6211 3840.3538)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2519 0 0 -0.2519 1020.4865 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7234 0 0 -0.7234 1132.2378 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6882 0 0 -0.6882 1802.7455 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1611 0 0 -0.1611 1914.4968 3952.105)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0029 0 0 -0.0029 852.8596 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4891 0 0 -0.4891 964.6108 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1188.1134 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1299.8647 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3427 0 0 -0.3427 1970.3724 4063.8562)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4862 0 0 -0.4862 908.7352 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1132.2378 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3339 0 0 -0.3339 2026.248 4175.6074)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3017 0 0 -0.3017 852.8596 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1188.1134 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1299.8647 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1970.3724 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1318 0 0 -0.1318 2082.1238 4287.3589)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0322 0 0 -0.0322 796.9839 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6853 0 0 -0.6853 908.7352 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1132.2378 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5301 0 0 -0.5301 2026.248 4399.1104)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2724 0 0 -0.2724 852.8596 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 964.6108 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1188.1134 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1299.8647 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1858.6211 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.741 0 0 -0.741 1970.3724 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1142 0 0 -0.1142 2082.1238 4510.8613)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4217 0 0 -0.4217 908.7352 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1020.4865 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1132.2378 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1802.7455 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1914.4968 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2607 0 0 -0.2607 2026.248 4622.6128)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.3661 0 0 -0.3661 964.6108 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1076.3621 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1188.1134 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1299.8647 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1411.616 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1523.3673 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1635.1185 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1746.8699 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7351 0 0 -0.7351 1858.6211 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.2255 0 0 -0.2255 1970.3724 4734.3638)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1435 0 0 -0.1435 1020.4865 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.6502 0 0 -0.6502 1132.2378 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1243.989 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1355.7404 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1467.4916 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1579.2429 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.7468 0 0 -0.7468 1690.9941 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5857 0 0 -0.5857 1802.7455 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0791 0 0 -0.0791 1914.4968 4846.1152)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.0029 0 0 -0.0029 1076.3621 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1611 0 0 -0.1611 1188.1134 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4422 0 0 -0.4422 1299.8647 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5594 0 0 -0.5594 1411.616 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.5506 0 0 -0.5506 1523.3673 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.4042 0 0 -0.4042 1635.1185 4957.8667)" overflow="visible"/>
+	
+		<use xlink:href="#Bitcoin"  width="104.746" height="150.644" x="-52.373" y="-75.322" transform="matrix(0.1113 0 0 -0.1113 1746.8699 4957.8667)" overflow="visible"/>
+</g>
+</svg>
