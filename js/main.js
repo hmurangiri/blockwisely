@@ -11,7 +11,7 @@ const menuItems = [
 ];
 
 let topMenu = '';
-topMenu += '<div class="container-fluid"><a class="navbar-brand" href="index.html">SKILLSWING</a>';
+topMenu += '<div class="container-fluid"><a class="navbar-brand" href="index.html">BLOCKWISELY</a>';
 topMenu += '<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#main_nav" data-bs-toggle="collapse" type="button">';
 topMenu += '    <span class="navbar-toggler-icon"></span>';
 topMenu += '</button>';
