@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8EG5HPW71V"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-8EG5HPW71V');
+	</script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blockwisely is a kenyan-based blockchain consultancy firm.">
+    <meta name="keywords" content="Kenyan blockchain consultant, Kenya blockchain consultant, Kenyan bitcoin consultant, blockchain consultant, blockchain consultancy, blockchain, bitcoin">
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" />
+	  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/main.css">
+    <title>Kenya Blockchain Consultancy | blockwisely</title>
+    <style>
+        .roww {
+            /* border: 1px black solid; */
+            width: 90%;
+            margin: auto;
+            text-align: center;
+        }
+
+        .inner {
+            text-align: left;
+            padding: 20px;
+        }
+
+        .title {
+            text-align: center;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        #formdiv {
+            width: 70vw;
+            margin: auto;
+            padding: 20px;
+        }
+
+        #formdiv > h2 {
+            text-align: center;
+        }
+
+        input {
+            border: 3px grey groove;
+        }
+
+        .hero {
+  justify-content: center;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+    </style>
+</head>
+  <body onload="generateMenu()" class="bg-light">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="header"></nav>
+      <section class="section-content py-3">
+        <div class="row">
+          <!-- <span id="sideContent" class="col-lg-3"></span> -->
+          <main class="col-lg-12">
+
+            <div class="roww">
+                
+                <div class="row inner">
+                    <div class="title">
+                        <h1>Blockwisely Blockchain<br>Consultancy</h1>
+                    </div>
+                        <div class="col-lg-6 hero">
+                            <p>We are a Kenyan based blockchain consultancy firm.<br>We help businesses harness the power of blockchain technology</p>
+                            <p>Get in Touch: <br>Email: <a href="mailto:blockwisely@skillswing.com">blockwisely@skillswing.com</a></p>
+                        </div>
+        
+                        <div class="col-lg-6 logo">
+                            <img src="logo.svg" alt="logo" width="30%" height="auto">
+                        </div>
+
+                    <div id="formdiv">
+                        <h2>Get A Quote</h2>
+                        <form action="https://docs.google.com/forms/d/e/1FAIpQLSe4q1EejHxheop_wff2i8-9q252P-FMJ2GefO80EGeOvw_t9g/formResponse" method="POST" id="myform">
+                            <div class="form-group">
+                                <label for="name" class="form-label">Name:</label>
+                                <input type="text" class="form-control" id="name" name="entry.24969664" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email" class="form-label">Email:</label>
+                                <input type="email" class="form-control" id="email" name="entry.1836564007" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone" class="form-label">Phone Number:</label>
+                                <input type="tel" class="form-control" id="phone" name="entry.817866055" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="date" class="form-label">Date:</label>
+                                <input type="date" class="form-control" id="date" name="entry.1484188295" required>
+                            </div><br>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+          </main>
+        </div>
+      </section>
+    </div>     
+    <script src="js/main.js"></script>  
+    <script>
+        document.getElementById("myform").addEventListener("submit", function(event){
+            event.preventDefault();
+            var formData = new FormData(event.target);
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", event.target.action);
+            xhr.send(formData);
+
+            var name, email, phone, date
+
+            document.getElementById("name").value = ""
+            document.getElementById("email").value = ""
+            document.getElementById("phone").value = ""
+            document.getElementById("date").value = ""
+
+            alert("Details submitted successfully. Kindly wait for a response from us shortly.")
+        });
+    </script>
+  </body>
+</html>
