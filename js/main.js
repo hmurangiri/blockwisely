@@ -1,5 +1,5 @@
 const menuItems = [
-    {label: 'Background', url: 'index.html', id: 'index'},
+    {label: 'Background', url: 'background.html', id: 'background'},
     {label: 'Blockchain', url: 'blockchain.html', id: 'blockchain'},
     {label: 'Types of Cryptocurrency', url: 'crypto-types.html', id: 'crypto-types'},
     {label: 'Bitcoin', url: 'bitcoin.html', id: 'bitcoin'},
@@ -17,9 +17,8 @@ topMenu += '    <span class="navbar-toggler-icon"></span>';
 topMenu += '</button>';
 topMenu += '<div class="collapse navbar-collapse" id="main_nav">';
 topMenu += '    <ul class="navbar-nav">';
-topMenu += '        <li class="nav-item active"><a class="nav-link" href="index.html">Crypto </a></li>';
+topMenu += '        <li class="nav-item active"><a class="nav-link" href="background.html">Learn </a></li>';
 topMenu += '        <li class="nav-item active"><a class="nav-link" href="#">News </a></li>';
-topMenu += '        <li class="nav-item active"><a class="nav-link" href="contact.html">Contact Us </a></li>';
 topMenu += '    </ul>';
 topMenu += '</div>';
 topMenu += '</div>';
