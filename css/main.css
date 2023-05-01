@@ -61,6 +61,50 @@
     color: red !important;
 }
 
+.heroContainer {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.heroHeader {
+    text-align: left;
+    padding: 20px;
+}
+
+.heroTitle {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    text-align: center;
+}
+
+#quoteForm {
+    width: 70vw;
+    margin: auto;
+    padding: 20px;
+}
+
+#quoteForm > h2 {
+    text-align: center;
+}
+
+#quoteForm > input {
+    border: 3px grey groove;
+}
+
+.hero {
+    justify-content: center;
+    align-items: center;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
 .form-control {
     height: 40px;
     box-shadow: none;
@@ -168,6 +212,10 @@
     .dropdown-menu li{
         position: relative;
     }
+	
+   .logo {
+	    display: block;
+	}
     
     .sideMenu {
         display: block;
@@ -220,6 +268,10 @@
     .dropdown-menu .dropdown-menu{
         margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
     }
+	
+	.logo {
+	    display: none;
+	}
 
     #active {
         color: red !important;
