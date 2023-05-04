@@ -62,7 +62,6 @@
 }
 
 .heroContainer {
-    width: 90%;
     margin: auto;
     text-align: center;
 }
@@ -82,7 +81,6 @@
 }
 
 #quoteForm {
-    width: 70vw;
     margin: auto;
     padding: 20px;
 }
@@ -217,6 +215,14 @@
 	    display: block;
 	}
     
+	.heroContainer {
+    		width: 90%;
+	}
+	
+	#quoteForm {
+    		width: 70vw;
+	}
+	
     .sideMenu {
         display: block;
     }
@@ -271,6 +277,14 @@
 	
 	.logo {
 	    display: none;
+	}
+	
+	.heroContainer {
+    		width: 100%;
+	}
+	
+	#quoteForm {
+    		width: 100vw;
 	}
 
     #active {
