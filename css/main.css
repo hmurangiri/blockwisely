@@ -68,7 +68,6 @@
 
 .heroHeader {
     text-align: left;
-    padding: 20px;
 }
 
 .heroTitle {
@@ -223,6 +222,10 @@
     		width: 70vw;
 	}
 	
+	.heroHeader {
+	    padding: 20px;
+	}
+	
     .sideMenu {
         display: block;
     }
@@ -285,6 +288,10 @@
 	
 	#quoteForm {
     		width: 100vw;
+	}
+	
+	.heroHeader {
+	    padding: 0;
 	}
 
     #active {
