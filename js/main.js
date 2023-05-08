@@ -8,7 +8,7 @@ const menuItems = [
     {label: 'Crypto Trading', url: 'crypto-trading.html', id: 'crypto-trading'},
     {label: 'NFT', url: 'nft.html', id: 'nft'},
     {label: 'Smart Contracts', url: 'smart-contracts.html', id: 'smart-contracts'},
-    {label: 'Hashing', url: 'hashing.html', id: 'smart-contracts'}
+    {label: 'Hashing', url: 'hashing.html', id: 'hashing'}
 ];
 
 let topMenu = '';
