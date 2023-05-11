@@ -11,6 +11,11 @@ const menuItems = [
     {label: 'Hashing', url: 'hashing.html', id: 'hashing'}
 ];
 
+var currentUrl = window.location.href;
+if(currentUrl.includes("/learn/")) {
+   var position = ""
+}
+
 let topMenu = '';
 topMenu += '<div class="container-fluid"><a class="navbar-brand" href="index.html">BLOCKWISELY</a>';
 topMenu += '<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#main_nav" data-bs-toggle="collapse" type="button">';
