@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <title>Fancy FAQ</title>
+  <style>
+    .question-container {
+      position: relative;
+    }
+
+    .arrow {
+      position: absolute;
+      top: 50%;
+      right: 10px;
+      transform: translateY(-50%);
+    }
+
+    .btn-link {
+      color: black;
+      font-weight: bold;
+    }
+
+    .question-container .btn-link:hover {
+      text-decoration: none;
+    }
+
+    .arrow::before {
+      content: '\2193';
+    }
+
+    .collapsed .arrow::before {
+      content: '\2192';
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container mt-5">
+    <h1 class="text-center mb-4">Frequently Asked Questions</h1>
+
+    <div id="accordion">
+      
+      <div class="card">
+
+
+        <div class="card-header" id="headingOne">
+          <h5 class="mb-0">
+            <div class="question-container">
+              <div class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+                aria-controls="collapseOne">
+                Question 1?
+                <span class="arrow"></span>
+              </div>
+            </div>
+          </h5>
+        </div>
+
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+          <div class="card-body">
+            Answer to question 1.
+          </div>
+        </div>
+      </div>
+
+
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h5 class="mb-0">
+            <div class="question-container">
+              <div class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                aria-expanded="false" aria-controls="collapseTwo">
+                Question 2?
+                <span class="arrow"></span>
+              </div>
+            </div>
+          </h5>
+        </div>
+
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+          <div class="card-body">
+            Answer to question 2.
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
