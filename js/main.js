@@ -32,7 +32,7 @@ topMenu += '</div>';
 let sideContent = '';
 sideContent += '<aside>';
 sideContent += ' <nav class="sidebar card py-2" style="overflow:auto;">';
-sideContent += '     <h2 style="margin: 5px 10px 2px 10px;">Table of Contents <span style="float:right;cursor:pointer;" id="tocControl" onClick="tocControlFunc()">[Hide]</span></h2>';
+sideContent += '     <p style="margin: 5px 10px 2px 10px;font-size:1.2em;">Table of Contents <span style="float:right;cursor:pointer;" id="tocControl" onClick="tocControlFunc()">[Hide]</span></p>';
 sideContent += '     <hr id="hr">';
 sideContent += '     <ul id="sideMenu" class="nav flex-column sideMenu"></ul>';
 sideContent += ' </nav>';
