@@ -132,6 +132,11 @@ h6 {
     text-align: center;
 }
 
+#quoteForm > label {
+    font-size: 18px;
+    color: #777;
+}
+
 #quoteForm > input {
     border: 3px grey groove;
 }
