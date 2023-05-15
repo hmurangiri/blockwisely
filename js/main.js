@@ -4,16 +4,16 @@ const learn = domain + "/learn/"
 const news = domain + "/news/"
 
 const menuItems = [
-    {label: 'Background', url: 'background.html', id: 'background'},
-    {label: 'Blockchain', url: 'blockchain.html', id: 'blockchain'},
-    {label: 'Types of Cryptocurrency', url: 'crypto-types.html', id: 'crypto-types'},
-    {label: 'Bitcoin', url: 'bitcoin.html', id: 'bitcoin'},
-    {label: 'Top Cryptocurrencies', url: 'topcrypto.html', id: 'topcrypto'},
-    {label: 'Stablecoins', url: 'stablecoins.html', id: 'stablecoins'},
-    {label: 'Crypto Trading', url: 'crypto-trading.html', id: 'crypto-trading'},
-    {label: 'NFT', url: 'nft.html', id: 'nft'},
-    {label: 'Smart Contracts', url: 'smart-contracts.html', id: 'smart-contracts'},
-    {label: 'Hashing', url: 'hashing.html', id: 'hashing'}
+    {label: 'Background', url: learn + 'background.html', id: 'background'},
+    {label: 'Blockchain', url: learn + 'blockchain.html', id: 'blockchain'},
+    {label: 'Types of Cryptocurrency', url: learn + 'crypto-types.html', id: 'crypto-types'},
+    {label: 'Bitcoin', url: learn + 'bitcoin.html', id: 'bitcoin'},
+    {label: 'Top Cryptocurrencies', url: learn + 'topcrypto.html', id: 'topcrypto'},
+    {label: 'Stablecoins', url: learn + 'stablecoins.html', id: 'stablecoins'},
+    {label: 'Crypto Trading', url: learn + 'crypto-trading.html', id: 'crypto-trading'},
+    {label: 'NFT', url: learn + 'nft.html', id: 'nft'},
+    {label: 'Smart Contracts', url: learn + 'smart-contracts.html', id: 'smart-contracts'},
+    {label: 'Hashing', url: learn + 'hashing.html', id: 'hashing'}
 ];
 
 var currentUrl = window.location.href;
