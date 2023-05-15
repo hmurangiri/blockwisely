@@ -1,3 +1,8 @@
+
+const domain = "https://www.blockwisely.com/"
+const learn = domain + "/learn/"
+const news = domain + "/news/"
+
 const menuItems = [
     {label: 'Background', url: 'background.html', id: 'background'},
     {label: 'Blockchain', url: 'blockchain.html', id: 'blockchain'},
@@ -17,14 +22,14 @@ if(currentUrl.includes("/learn/")) {
 }
 
 let topMenu = '';
-topMenu += '<div class="container-fluid"><a class="navbar-brand" href="index.html">BLOCKWISELY</a>';
+topMenu += '<div class="container-fluid"><a class="navbar-brand" href="' + domain + 'index.html">BLOCKWISELY</a>';
 topMenu += '<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#main_nav" data-bs-toggle="collapse" type="button">';
 topMenu += '    <span class="navbar-toggler-icon"></span>';
 topMenu += '</button>';
 topMenu += '<div class="collapse navbar-collapse" id="main_nav">';
 topMenu += '    <ul class="navbar-nav">';
-topMenu += '        <li class="nav-item active"><a class="nav-link" href="background.html">Learn </a></li>';
-topMenu += '        <li class="nav-item active"><a class="nav-link" href="#">News </a></li>';
+topMenu += '        <li class="nav-item active"><a class="nav-link" href="' + learn + 'background.html">Learn </a></li>';
+topMenu += '        <li class="nav-item active"><a class="nav-link" href="' + news + 'index.html">News </a></li>';
 topMenu += '    </ul>';
 topMenu += '</div>';
 topMenu += '</div>';

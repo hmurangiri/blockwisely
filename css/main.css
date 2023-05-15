@@ -38,6 +38,10 @@ h6 {
   margin-bottom: 1rem;
 }
 
+a {
+    text-decoration: none;
+}
+
 .sidebar .nav-link {
     font-weight: 500;
     color: var(--bs-dark);
@@ -68,22 +72,6 @@ h6 {
     /*width: 50%;*/
     margin: auto;
     margin: 5px;
-}
-
-.comment {
-    /*Border-top : 4px solid blue;*/
-    /*Border-right : 1px solid blue;*/
-    /*Border-bottom : 1px solid blue;*/
-    /*Border-left: 4px solid blue;*/
-    /*background-color: #EEEEEE;*/
-    padding-bottom: 1px;
-    /*width: 50%;*/
-    /*margin: auto;*/
-    /*margin: 5px;*/
-}
-
-.comment .commentuser {
-    color: blue;
 }
 
 #header {
@@ -257,6 +245,66 @@ h6 {
 .account-form form a:hover {
     text-decoration: underline;
 }  
+
+
+#news-list {
+    margin-top: 20px;
+}
+
+#news-list .card {
+    margin-bottom: 0px;
+}
+
+#pagination {
+    margin-top: 10px;
+}
+
+#pagination a {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+    background-color: inherit;
+    color: #333;
+    text-decoration: none;
+}
+
+#pagination a:hover {
+    background-color: #e0e0e0;
+}
+
+#pagination .active {
+    background-color: #333;
+    color: #fff;
+}
+
+.newsArticle {
+    display: none;
+}
+
+#article-page {
+    display: none;
+}
+
+.newsCard {
+    background-color: inherit;
+    border: none;
+    /* border-bottom: 1px solid #ccc; */
+    border-radius: 0%;
+}
+
+.newsCard-body {
+    padding: 0px;
+}
+
+#newsHeader {
+    text-align: center;
+    text-decoration: none;
+}
+
+.newsTitle {
+    color: #333;
+}
 
  /*============ desktop view ============ */
 @media all and (min-width: 992px) {
