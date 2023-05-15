@@ -1,5 +1,5 @@
 
-const domain = "https://www.blockwisely.com/"
+const domain = "https://blockwisely.com/"
 const learn = domain + "/learn/"
 const news = domain + "/news/"
 
