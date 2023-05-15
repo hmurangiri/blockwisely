@@ -1,7 +1,7 @@
 
 const domain = "https://blockwisely.com/"
-const learn = domain + "/learn/"
-const news = domain + "/news/"
+const learn = domain + "learn/"
+const news = domain + "news/"
 
 const menuItems = [
     {label: 'Background', url: learn + 'background.html', id: 'background'},
