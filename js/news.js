@@ -18,8 +18,6 @@ newsCardArray.forEach(function (element) {
         document.getElementById('news-list').style.display = 'none';
         document.getElementById('pagination').style.display = 'none';
         document.getElementById('article-page').style.display = 'block';
-
-        contents = []
     });
 })
 
