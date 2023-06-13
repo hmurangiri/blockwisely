@@ -1,163 +1,240 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8EG5HPW71V"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
 
-	  gtag('config', 'G-8EG5HPW71V');
-	</script>
-	
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8EG5HPW71V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8EG5HPW71V');
+    </script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Many cryptocurrencies are based on blockchain technology. Blockchain technology is a distributed ledger enforced by a network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.">
-    <meta name="keywords" content="Bitcoin, Cryptocurrency, Introduction to Bitcoin, Are bitcoins safe, Introduction To Cryptocurrencies, Bitcoin wallets, Crypto wallets, Cryptocurrency wallets, What is a Cryptocurrency, Who verifies bitcoin transactions, Who verifies crypto transactions, Who verifies cryptocurrency transactions, How Is the Value Of Cryptocurrency Determined">
-    <link rel="icon" href="../favicon.ico" type="image/x-icon"/>
-    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" />
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <meta name="description"
+        content="Many cryptocurrencies are based on blockchain technology. Blockchain technology is a distributed ledger enforced by a network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.">
+    <meta name="keywords"
+        content="Bitcoin, Cryptocurrency, Introduction to Bitcoin, Are bitcoins safe, Introduction To Cryptocurrencies, Bitcoin wallets, Crypto wallets, Cryptocurrency wallets, What is a Cryptocurrency, Who verifies bitcoin transactions, Who verifies crypto transactions, Who verifies cryptocurrency transactions, How Is the Value Of Cryptocurrency Determined">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+        rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+        crossorigin="anonymous"></script>
     <link rel="stylesheet" href="../css/main.css">
     <title>Introduction To Cryptocurrencies | blockwisely</title>
 </head>
-  <body onload="getUrlPosition()" class="bg-light">
+
+<body onload="getUrlPosition()" class="bg-light">
     <div class="container">
-      <nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="header">
-	
-	 <div class="container-fluid"><a class="navbar-brand" href="index.html">BLOCKWISELY</a>
-    <button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#main_nav"
-        data-bs-toggle="collapse" type="button">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="main_nav">
-        <ul class="navbar-nav">
-            <li class="nav-item active"><a class="nav-link" href="background.html">Learn </a></li>
-            <li class="nav-item active"><a class="nav-link" href="index.html">News </a></li>
-        </ul>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="header">
+
+            <div class="container-fluid"><a class="navbar-brand" href="index.html">BLOCKWISELY</a>
+                <button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+                    data-bs-target="#main_nav" data-bs-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="main_nav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active"><a class="nav-link" href="background.html">Learn </a></li>
+                        <li class="nav-item active"><a class="nav-link" href="index.html">News </a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </nav>
+        <section class="section-content py-3">
+            <div class="row">
+                <span id="sideContent" class="col-lg-3">
+
+                    <aside>
+                        <nav class="sidebar card py-2" style="overflow:auto;">
+                            <p style="margin: 5px 10px 2px 10px; font-size:1em; font-weight:200;">Table of Contents
+                                <span style="float:right;cursor:pointer;" id="tocControl"
+                                    onClick="tocControlFunc()">[Hide]</span></p>
+                            <hr id="hr">
+                            <ul id="sideMenu" class="nav flex-column sideMenu">
+                                <li class="nav-item">
+                                    <a class="nav-link" id="background" href="background.html">Background tt</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="blockchain" href="blockchain.html">Blockchain</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="crypto-types" href="crypto-types.html">Types of Cryptocurrency</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="bitcoin" href="bitcoin.html">Bitcoin</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="topcrypto" href="topcrypto.html">Top Cryptocurrencies</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="stablecoins" href="stablecoins.html">Stablecoins</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="crypto-trading" href="crypto-trading.html">Crypto Trading</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="nft" href="nft.html">NFT</a></li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="smart-contracts" href="smart-contracts.html">Smart Contracts</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="hashing" href="hashing.html">Hashing</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </aside>
+                </span>
+                
+                <main class="col-lg-9">
+
+                    <h1>Introduction To Cryptocurrencies</h1>
+
+                    <p>Crypto is a short form of the word cryptocurrency. The name cryptocurrency is a combination of
+                        cryptography and currency. With cryptography, we use advanced math to secure our funds, making
+                        sure that nobody else can spend them. There&#39;s no need to understand all this &ndash;
+                        applications you use will do all the heavy lifting. You won&#39;t even know what&#39;s going on
+                        under the hood.</p>
+
+                    <p>A cryptocurrency is a digital or virtual currency. It is just like a digital form of cash. You
+                        can use it to pay friends, buy that new pair of socks you&#39;ve been eyeing up, or book flights
+                        and hotels for your next holiday. Because cryptocurrency is digital, it can also be sent to
+                        friends and family anywhere in the world.</p>
+
+                    <p>Many cryptocurrencies are based on blockchain technology. Blockchain technology is a distributed
+                        ledger enforced by a network of computers. A defining feature of cryptocurrencies is that they
+                        are generally not issued by any central authority, rendering them theoretically immune to
+                        government interference or manipulation.</p>
+
+                    <p>In cryptocurrencies, there isn&#39;t an organization. You, your friends, and thousands of others
+                        can act as your own banks by running free software. Your computer connects with other
+                        people&#39;s computers, meaning you communicate directly &ndash; no middlemen required!</p>
+
+                    <p>To use cryptocurrency, you don&#39;t need to sign up for a website with an email address and
+                        password. You can download a wide variety of apps onto your smartphone to begin sending and
+                        receiving within minutes.</p>
+
+                    <p>Some of the apps includes:</p>
+
+                    <ul>
+                        <li>Trust Wallet</li>
+                        <li>Metamask Wallet</li>
+                        <li>SafePal Wallet</li>
+                        <li>Math Wallet</li>
+                    </ul>
+
+                    <h3>Simpler Definition Of Cryptocurrency</h3>
+
+                    <h4>What is a Cryptocurrency?</h4>
+
+                    <ul>
+                        <li>Cryptocurrency takes the form of digital assets.</li>
+                        <li>Buyers use money to buy assets or part of an asset. Same way that you would use money to buy
+                            some commodity in the market.</li>
+                        <li>Buyers then exchange the assets online for goods and services.</li>
+                        <li>Think of an asset like a <a href="https://en.wikipedia.org/wiki/Casino_token">chip</a> at a
+                            casino.</li>
+                    </ul>
+
+                    <p>When you get to a casino, you exchange your money for chips. You can then use the chips to play
+                        the games. In this analogy, the casino chips are the assets and the games are the goods and
+                        services that you are purchasing.</p>
+
+                    <h4>How Does It Work?</h4>
+
+                    <p></p>
+
+                    <ul>
+                        <li>Transactions are verified using blockchain.</li>
+                        <li>Blockchain is a network of many computers that store data such that the data cannot be
+                            owned, controlled or manipulated by one person, organization or a central actor.</li>
+                        <li>Blockchain transactions are decentralized, meaning they&#39;re spread across many computers
+                            to manage and record transactions</li>
+                        <li>Because Blockchain transactions rely on many computers, they are considered more secure than
+                            centralized currencies</li>
+                    </ul>
+
+                    <p></p>
+
+                    <h4>Who Verifies The Transactions?</h4>
+
+                    <p>We have stated that blockchain is formed by a network of many computers. You can decide to be
+                        part of the network by downloading the blockchain application for a specific cryptocurrency and
+                        then you will be part of the team that verifies the transactions. These people are called miners
+                        and the process of verifying blockchain transactions is called mining.</p>
+
+                    <p>Cryptocurrency miners verify the legitimacy of Blockchain transactions by solving complex
+                        puzzles. The first miner to complete a &quot;block&quot; (a.k.a. solve the puzzle) verifies the
+                        transaction and receives a small cryptocurrency reward for their work.</p>
+
+                    <p>Mining some cryptocurrencies like Bitcoin requires so much computing power such that you need
+                        sophisticated computers in order to perform the operation. As at the moment, it is not possible
+                        to mine Bitcoin using the common personal computer or laptop (PC).</p>
+
+                    <h4>How Does Decentralization Improve Security?</h4>
+
+                    <ul>
+                        <li>A decentralized network, like blockchain distributes risk. So if one part of it is hacked or
+                            goes offline, it doesn&#39;t put the rest of the system in jeopardy.</li>
+                        <li>To think of this simply: imagine the circuit breaker in your house. If a circuit blows, you
+                            might lose power in one room, but not the others.</li>
+                    </ul>
+
+                    <h4>How Is the Value Of Cryptocurrency Determined?</h4>
+
+                    <p>Cryptocurrency gets its value based on what people are willing to pay for it. This is similar to
+                        real estate where the value of the cryptocurrency will go up or down based on how much demand
+                        there is for it.</p>
+
+                    <h2>Where did cryptocurrency come from?</h2>
+
+                    <p>Cryptocurrency had its beginnings in the early 1990s. Cypherpunks believed that the government
+                        (and private corporations) had amassed too much control over our lives. To counteract this, they
+                        started looking into the idea of digital cash that could circumvent government control. and were
+                        a few examples of these early cryptocurrencies, but both projects had some fatal flaws that
+                        meant they didn&rsquo;t stick around for long.</p>
+
+                    <p>The concept of a secure, decentralized digital currency first began to be realized in early 2009,
+                        when crypto was first successfully brought into the mainstream through the creation of Bitcoin
+                        (BTC). Developed by an anonymous person or group going by the pseudonym Satoshi Nakamoto,
+                        Bitcoin was the world&rsquo;s first secure, decentralized peer-to-peer cash system.</p>
+
+                    <p>Bitcoin&rsquo;s innovative solutions to problems which had plagued earlier attempts at creating a
+                        cryptocurrency (such as double spending) caught the attention of developers and entrepreneurs
+                        around the world. In the decade since Bitcoin first launched, more and more cryptocurrency
+                        projects have been created, further iterating on the concept and adding additional features.</p>
+
+                    <h2>Why Should You Use Cryptocurrencies?</h2>
+
+                    <p>Everyone has a reason to join the cryptocurrency train. Some of the reasons include:</p>
+
+                    <ul>
+                        <li><b>Fraud-proof:</b> When cryptocurrency is created, all confirmed transactions are stored in
+                            a public ledger. All identities of coin owners are encrypted to ensure the legitimacy of
+                            record keeping. This ensures that there is no instance when a wrong transaction can be
+                            entered into the blockchain and by inference, no possibility of your cryptocurrencies
+                            disappearing from your wallet.</li>
+                        <li><b>Instant Settlement:</b> Performing a bank transfer internationally takes an astronomical
+                            amount of time to be completed. With some cryptocurrencies, you are able to perform a
+                            transaction almost instantly to anyone worldwide as long as they have a cryptocurrency
+                            wallet.</li>
+                        <li><b>Cheap Fees:</b> With bank transfers, you are charged a large amount of fees to perform a
+                            transaction and when it comes to international transfers, the fees get soo huge. Crypto
+                            transfers are very cheap when compared to bank transfers and this tends to attract so many
+                            people especially the ones that does large transactions.</li>
+                    </ul>
+
+                </main>
+            </div>
+        </section>
     </div>
-</div>
-	      
-	</nav>
-      <section class="section-content py-3">
-        <div class="row">
-          <span id="sideContent" class="col-lg-3">
-		
-		  <aside>
-    <nav class="sidebar card py-2" style="overflow:auto;">
-        <p style="margin: 5px 10px 2px 10px; font-size:1em; font-weight:200;">Table of Contents <span
-                style="float:right;cursor:pointer;" id="tocControl" onClick="tocControlFunc()">[Hide]</span></p>
-        <hr id="hr">
-        <ul id="sideMenu" class="nav flex-column sideMenu">
-	    
-		<li class="nav-item"><a class="nav-link" id="background" href="background.html">Background tt</a></li>
-<li class="nav-item"><a class="nav-link" id="blockchain" href="blockchain.html">Blockchain</a></li>
-<li class="nav-item"><a class="nav-link" id="crypto-types" href="crypto-types.html">Types of Cryptocurrency</a></li>
-<li class="nav-item"><a class="nav-link" id="bitcoin" href="bitcoin.html">Bitcoin</a></li>
-<li class="nav-item"><a class="nav-link" id="topcrypto" href="topcrypto.html">Top Cryptocurrencies</a></li>
-<li class="nav-item"><a class="nav-link" id="stablecoins" href="stablecoins.html">Stablecoins</a></li>
-<li class="nav-item"><a class="nav-link" id="crypto-trading" href="crypto-trading.html">Crypto Trading</a></li>
-<li class="nav-item"><a class="nav-link" id="nft" href="nft.html">NFT</a></li>
-<li class="nav-item"><a class="nav-link" id="smart-contracts" href="smart-contracts.html">Smart Contracts</a></li>
-<li class="nav-item"><a class="nav-link" id="hashing" href="hashing.html">Hashing</a></li>
-	    
-	    </ul>
-    </nav>
-</aside>
-		
-		</span>
-          <main class="col-lg-9">
 
-            <h1>Introduction To Cryptocurrencies</h1>
+    <script src="../js/main.js"></script>
+</body>
 
-            <p>Crypto is a short form of the word cryptocurrency. The name cryptocurrency is a combination of cryptography and currency. With cryptography, we use advanced math to secure our funds, making sure that nobody else can spend them. There&#39;s no need to understand all this &ndash; applications you use will do all the heavy lifting. You won&#39;t even know what&#39;s going on under the hood.</p>
-
-            <p>A cryptocurrency is a digital or virtual currency. It is just like a digital form of cash. You can use it to pay friends, buy that new pair of socks you&#39;ve been eyeing up, or book flights and hotels for your next holiday. Because cryptocurrency is digital, it can also be sent to friends and family anywhere in the world.</p>
-
-            <p>Many cryptocurrencies are based on blockchain technology. Blockchain technology is a distributed ledger enforced by a network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.</p>
-
-            <p>In cryptocurrencies, there isn&#39;t an organization. You, your friends, and thousands of others can act as your own banks by running free software. Your computer connects with other people&#39;s computers, meaning you communicate directly &ndash; no middlemen required!</p>
-
-            <p>To use cryptocurrency, you don&#39;t need to sign up for a website with an email address and password. You can download a wide variety of apps onto your smartphone to begin sending and receiving within minutes.</p>
-
-            <p>Some of the apps includes:</p>
-
-            <ul>
-              <li>Trust Wallet</li>
-              <li>Metamask Wallet</li>
-              <li>SafePal Wallet</li>
-              <li>Math Wallet</li>
-            </ul>
-
-            <h3>Simpler Definition Of Cryptocurrency</h3>
-
-            <h4>What is a Cryptocurrency?</h4>
-
-            <ul>
-              <li>Cryptocurrency takes the form of digital assets.</li>
-              <li>Buyers use money to buy assets or part of an asset. Same way that you would use money to buy some commodity in the market.</li>
-              <li>Buyers then exchange the assets online for goods and services.</li>
-              <li>Think of an asset like a <a href="https://en.wikipedia.org/wiki/Casino_token">chip</a> at a casino.</li>
-            </ul>
-
-            <p>When you get to a casino, you exchange your money for chips. You can then use the chips to play the games. In this analogy, the casino chips are the assets and the games are the goods and services that you are purchasing.</p>
-
-            <h4>How Does It Work?</h4>
-
-            <p></p>
-
-            <ul>
-              <li>Transactions are verified using blockchain.</li>
-              <li>Blockchain is a network of many computers that store data such that the data cannot be owned, controlled or manipulated by one person, organization or a central actor.</li>
-              <li>Blockchain transactions are decentralized, meaning they&#39;re spread across many computers to manage and record transactions</li>
-              <li>Because Blockchain transactions rely on many computers, they are considered more secure than centralized currencies</li>
-            </ul>
-
-            <p></p>
-
-            <h4>Who Verifies The Transactions?</h4>
-
-            <p>We have stated that blockchain is formed by a network of many computers. You can decide to be part of the network by downloading the blockchain application for a specific cryptocurrency and then you will be part of the team that verifies the transactions. These people are called miners and the process of verifying blockchain transactions is called mining.</p>
-
-            <p>Cryptocurrency miners verify the legitimacy of Blockchain transactions by solving complex puzzles. The first miner to complete a &quot;block&quot; (a.k.a. solve the puzzle) verifies the transaction and receives a small cryptocurrency reward for their work.</p>
-
-            <p>Mining some cryptocurrencies like Bitcoin requires so much computing power such that you need sophisticated computers in order to perform the operation. As at the moment, it is not possible to mine Bitcoin using the common personal computer or laptop (PC).</p>
-
-            <h4>How Does Decentralization Improve Security?</h4>
-
-            <ul>
-              <li>A decentralized network, like blockchain distributes risk. So if one part of it is hacked or goes offline, it doesn&#39;t put the rest of the system in jeopardy.</li>
-              <li>To think of this simply: imagine the circuit breaker in your house. If a circuit blows, you might lose power in one room, but not the others.</li>
-            </ul>
-
-            <h4>How Is the Value Of Cryptocurrency Determined?</h4>
-
-            <p>Cryptocurrency gets its value based on what people are willing to pay for it. This is similar to real estate where the value of the cryptocurrency will go up or down based on how much demand there is for it.</p>
-
-            <h2>Where did cryptocurrency come from?</h2>
-
-            <p>Cryptocurrency had its beginnings in the early 1990s. Cypherpunks believed that the government (and private corporations) had amassed too much control over our lives. To counteract this, they started looking into the idea of digital cash that could circumvent government control. and were a few examples of these early cryptocurrencies, but both projects had some fatal flaws that meant they didn&rsquo;t stick around for long.</p>
-
-            <p>The concept of a secure, decentralized digital currency first began to be realized in early 2009, when crypto was first successfully brought into the mainstream through the creation of Bitcoin (BTC). Developed by an anonymous person or group going by the pseudonym Satoshi Nakamoto, Bitcoin was the world&rsquo;s first secure, decentralized peer-to-peer cash system.</p>
-
-            <p>Bitcoin&rsquo;s innovative solutions to problems which had plagued earlier attempts at creating a cryptocurrency (such as double spending) caught the attention of developers and entrepreneurs around the world. In the decade since Bitcoin first launched, more and more cryptocurrency projects have been created, further iterating on the concept and adding additional features.</p>
-
-            <h2>Why Should You Use Cryptocurrencies?</h2>
-
-            <p>Everyone has a reason to join the cryptocurrency train. Some of the reasons include:</p>
-
-            <ul>
-              <li><b>Fraud-proof:</b> When cryptocurrency is created, all confirmed transactions are stored in a public ledger. All identities of coin owners are encrypted to ensure the legitimacy of record keeping. This ensures that there is no instance when a wrong transaction can be entered into the blockchain and by inference, no possibility of your cryptocurrencies disappearing from your wallet.</li>
-              <li><b>Instant Settlement:</b> Performing a bank transfer internationally takes an astronomical amount of time to be completed. With some cryptocurrencies, you are able to perform a transaction almost instantly to anyone worldwide as long as they have a cryptocurrency wallet.</li>
-              <li><b>Cheap Fees:</b> With bank transfers, you are charged a large amount of fees to perform a transaction and when it comes to international transfers, the fees get soo huge. Crypto transfers are very cheap when compared to bank transfers and this tends to attract so many people especially the ones that does large transactions.</li>
-            </ul>
-
-          </main>
-        </div>
-      </section>
-    </div>  
-      
-    <script src="../js/main.js"></script>  
-  </body>
 </html>
